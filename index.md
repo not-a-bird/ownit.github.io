@@ -20,3 +20,6 @@ don't have to screw with usernames and password...
     git clone git@github.com:not-a-bird/ownit.github.io.git
 ```
 
+Lamely adding new content
+-------------------------
+If you log in through github, you can edit the pages directly from the source browser.  way to be lame...
